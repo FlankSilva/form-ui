@@ -1,0 +1,17 @@
+{
+  "name": "flank-silva/form-ui",
+  "description": "Componentes de formulario",
+  "type": "library",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Flank Silva",
+      "email": "flank.silva.0@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "FlankSilva\\formUI\\": "src/"
+    }
+  }
+}
